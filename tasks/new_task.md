@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-3quyDv9fj1FYA9zre4EiIK24.png?st=2024-11-04T09%3A01%3A39Z&se=2024-11-04T11%3A01%3A39Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-04T02%3A07%3A00Z&ske=2024-11-05T02%3A07%3A00Z&sks=b&skv=2024-08-04&sig=uI9wxnCUS55I//23CjuuDCyr2rKDXwzGETguSlmnfUI%3D)
+
 # 📚 Programming Task: Indamon Battle Game
 
 Welcome to your quest to create an engaging text-based game using Indamons (imaginary creatures born from your creativity)! This project will guide you through designing and implementing an exciting battle system where Indamons fight and score points.
