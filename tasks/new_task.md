@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-VU1POhuSWef0b9RkVWuL3ZLB.png?st=2024-11-04T08%3A19%3A19Z&se=2024-11-04T10%3A19%3A19Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-04T01%3A56%3A56Z&ske=2024-11-05T01%3A56%3A56Z&sks=b&skv=2024-08-04&sig=m8qXHZDb17AUUq29GsXGF1DHv/A8N66InWk4bVaLD90%3D)
+
 # 🎮 Simple Game Application Development: Dynamic Player Movement and Interaction
 
 Welcome to your next exciting programming challenge! In this task, you'll develop a simple game application that emphasizes dynamic player movement, a comprehensive scoring system, and engaging interaction with enemies. This task is designed to help you gain proficiency in using data from files to instantiate objects, designing classes effectively, and programming creatively. Let's dive in!
