@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-o9oBCL726n17s06VrpszpRzL.png?st=2024-11-04T07%3A57%3A59Z&se=2024-11-04T09%3A57%3A59Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-04T02%3A04%3A15Z&ske=2024-11-05T02%3A04%3A15Z&sks=b&skv=2024-08-04&sig=6v%2BX8f94x3qcavlA39DMve/DSm2YDm67yj6mrVTsfCY%3D)
+
 ## 🎮 Simple Game Application using the Indamon Program
 
 Welcome to your new coding adventure! In this task, you will create a simple game application with exciting features like player movement, a scoring system, and enemy interactions using the indamon program. This assignment will challenge you to integrate several important programming concepts while allowing you to express your creativity in a fun way.
