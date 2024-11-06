@@ -1,0 +1,4 @@
+name,type,strength,agility,intelligence
+Flamon,Fire,8,5,4
+Aquamon,Water,4,6,9
+Terramon,Earth,7,7,3
